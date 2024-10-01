@@ -5,11 +5,11 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="https://github.com/soumyajit4419/soumyajit4419/blob/master/thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+<img  src="https://github.com/soumyajit4419/soumyajit4419/blob/master/thoughtworks-gif_dribbble.gif" height="190px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://yandex.ru)**
 
-- - 💼 Open To Job Opportunities 
+-  💼 Open To Job Opportunities 
 
 - 🔭 I’m currently working on `My own project.`.
 
