@@ -5,7 +5,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="https://github.com/soumyajit4419/soumyajit4419/blob/master/thoughtworks-gif_dribbble.gif" height="190px" align="right" />
+<img  src="./thoughtworks-gif_dribbble.gif" height="190px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://yandex.ru)**
 
