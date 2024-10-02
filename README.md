@@ -1,17 +1,17 @@
 <div id="header" align="center">
   <img alt="Gif" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=790b7611nwti9hbl4hd78wwi8g4aiykedelwk2cd2yde373h&ep=v1_gifs_search&rid=giphy.gif&ct=g"  height="180px"px"/>
-<h2>Hi, I'm Ivan! 👋</h2>
+<h2>Привет, меня зовут Иван! 👋</h2>
 </div>
 
-## 👨🏻‍💻 About Me:
+## 👨🏻‍💻 Обо мне:
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="190px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://ivangubkin.github.io)**
+- 🙋‍♂️ Мой  **[Портфолио](https://ivangubkin.github.io)**
 
--  💼 Open To Job Opportunities `Frontend developer`
+-  💼 Открыт для поиска работы на позицию `Frontend developer`
 
-- 🔭 I’m currently working on `My own project.`.
+- 🔭 В настоящее время работаю над `Своим проектом.`.
 
 - 👯 I’m looking to collaborate for `Dev Projects`
 
