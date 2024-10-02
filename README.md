@@ -37,8 +37,8 @@
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
 <img alt="Postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
 <img alt="Sass" src="https://img.shields.io/badge/-Scss-%23CF649A?style=flat-square&logo=sass&logoColor=white" height="25px"/>
-<img alt="Sass" src="https://img.shields.io/badge/-TypeScript-%233178c6?style=flat-square&logo=typescript&logoColor=white" height="25px"/>
-<img alt="Sass" src="https://img.shields.io/badge/-Scss-%23CF649A?style=flat-square&logo=sass&logoColor=white" height="25px"/>
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-%233178c6?style=flat-square&logo=typescript&logoColor=white" height="25px"/>
+<img alt="Django" src="https://img.shields.io/badge/-django-%230C4B33?style=flat-square&logo=django&logoColor=white" height="25px"/>
 
 </p>
 
