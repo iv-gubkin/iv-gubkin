@@ -7,7 +7,7 @@
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="190px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://IvanGubkin.github.io)**
+- 🙋‍♂️ All about me is at **[My Website](https://ivangubkin.github.io)**
 
 -  💼 Open To Job Opportunities `Frontend developer`
 
