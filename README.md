@@ -47,7 +47,6 @@
 ## 📊 My GitHub Data:
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=IvanGubkin&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IvanGubkin&" alt="gubkin" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGubkin&layout=compact" height="195px" />
 </div>
 
