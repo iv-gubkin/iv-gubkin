@@ -7,9 +7,9 @@
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="190px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://yandex.ru)**
+- 🙋‍♂️ All about me is at **[My Website](https://IvanGubkin.github.io)**
 
--  💼 Open To Job Opportunities 
+-  💼 Open To Job Opportunities `Frontend developer`
 
 - 🔭 I’m currently working on `My own project.`.
 
