@@ -51,3 +51,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGubkin&layout=compact" height="195px" />
 </div>
 
+## Контакты:
+<p>
+  <a href="https://t.me/Moryachok77"><img alt="Telegram" src="https://img.shields.io/badge/-Telegramm-%2327a7e7?style=flat-square&logo=telegram&logoColor=white"/></a>
+</p>
+
