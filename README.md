@@ -7,7 +7,7 @@
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="190px" align="right" />
 
-- 🙋‍♂️ Мой  **[Портфолио](https://ivangubkin.github.io)**
+- 🙋‍♂️ Мое  **[Портфолио](https://ivangubkin.github.io)**
 
 -  💼 Открыт для поиска работы на позицию `Frontend developer`
 
@@ -15,11 +15,11 @@
 
 - 👯 I’m looking to collaborate for `Dev Projects`
 
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+- 👨‍💻 Люблю изучать новые технологии :fire:
 
 ---
 
-## 🛠️ Technologies and Tools I use:
+## 🛠️ Технологии и инструменты, которые я использую:
 
 <p>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
@@ -45,13 +45,7 @@
 
 ---
 
-## 📊 My GitHub Data:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGubkin&layout=compact" />
-</div>
-
-## Контакты:
+## 📱 Контакты:
 <p>
   <a href="https://t.me/Moryachok77"><img alt="Telegram" src="https://img.shields.io/badge/-Telegramm-%2327a7e7?style=flat-square&logo=telegram&logoColor=white" height="25px"/></a>
   <a href="mailto:iv.gubkin19988@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-%23fff?style=flat-square&logo=gmail&logoColor=red" height="25px" /></a>
