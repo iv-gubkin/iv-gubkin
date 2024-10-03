@@ -48,11 +48,12 @@
 ## 📊 My GitHub Data:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGubkin&layout=compact" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGubkin&layout=compact" />
 </div>
 
 ## Контакты:
 <p>
-  <a href="https://t.me/Moryachok77"><img alt="Telegram" src="https://img.shields.io/badge/-Telegramm-%2327a7e7?style=flat-square&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/Moryachok77"><img alt="Telegram" src="https://img.shields.io/badge/-Telegramm-%2327a7e7?style=flat-square&logo=telegram&logoColor=white" height="25px"/></a>
+  <a href="mailto:iv.gubkin19988@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-%23fff?style=flat-square&logo=gmail&logoColor=red" height="25px" /></a>
 </p>
 
