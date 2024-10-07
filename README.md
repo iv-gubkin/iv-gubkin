@@ -40,6 +40,7 @@
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-%233178c6?style=flat-square&logo=typescript&logoColor=white" height="25px"/>
 <img alt="Django" src="https://img.shields.io/badge/-django-%230C4B33?style=flat-square&logo=django&logoColor=white" height="25px"/>
 <img alt="Vite" src="https://img.shields.io/badge/-vite-%23646cff?style=flat-square&logo=vite&logoColor=white" height="25px" />
+<img alt="Shadcn" src="https://img.shields.io/badge/-shadcn-black?style=flat-square&logo=shadcnui&logoColor=white" height="25px" />
 
 </p>
 
