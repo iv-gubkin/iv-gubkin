@@ -42,8 +42,8 @@
 ## 📊 GitHub статистика
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IvanMakarov&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanMakarov&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iv-makarov&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iv-makarov&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -51,12 +51,12 @@
 ## 📈 Активность и диаграммы
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IvanMakarov&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iv-makarov&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IvanMakarov&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IvanMakarov&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iv-makarov&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iv-makarov&theme=tokyonight" />
 </p>
 
 ---
