@@ -1,18 +1,6 @@
 <h1 align="center">👋 Привет! Я — Иван Макаров</h1>
 <h3 align="center">Frontend-разработчик (React / TypeScript / Next.js)</h3>
 
-<p align="center">
-  <a href="https://github.com/IvanMakarov">
-    <img src="https://img.shields.io/badge/-Frontend%20Developer-36BCF7?style=for-the-badge&logo=react&logoColor=white" />
-  </a>
-  <a href="https://t.me/your_nick">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ## 🧠 О себе
