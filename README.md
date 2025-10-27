@@ -14,7 +14,7 @@
 ## ⚙️ Технологии
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,tailwind,vite,webpack,html,css,scss,docker,git" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,redux,tailwind,vite,html,css,scss,git" />
 </p>
 
 ---
