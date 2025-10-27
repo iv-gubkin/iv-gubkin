@@ -1,12 +1,12 @@
 <h1 align="center">👋 Привет! Я — Иван Губкин</h1>
-<h3 align="center">Frontend-разработчик (React / TypeScript / Next.js)</h3>
+<h3 align="center">Frontend-разработчик (React / TypeScript)</h3>
 
 ---
 
 ## 🧠 О себе
 Создаю современные, быстрые и удобные веб-приложения.  
 Люблю продумывать архитектуру, улучшать UX и писать чистый, понятный код.  
-Работаю с **React**, **TypeScript**, **Next.js** и современным фронтенд-стеком.  
+Работаю с **React**, **TypeScript** и современным фронтенд-стеком.  
 Интересуюсь оптимизацией производительности, i18n и картами.
 
 ---
@@ -42,8 +42,8 @@
 ## 📊 GitHub статистика
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iv-makarov&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iv-makarov&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iv-gubkin&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iv-gubkin&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -51,12 +51,12 @@
 ## 📈 Активность и диаграммы
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iv-makarov&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iv-gubkin&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iv-makarov&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iv-makarov&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iv-gubkin&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iv-gubkin&theme=tokyonight" />
 </p>
 
 ---
